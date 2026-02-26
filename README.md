@@ -64,3 +64,9 @@ Ellenberg, E. (2026). FAIR Actuary: Structural Attribution Diagnostic for Freque
 ⚖ License
 
 MIT License
+
+## Quick Start
+
+In R:
+
+source("r/example_run.R")
